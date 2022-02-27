@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference betweene the Pope, the Emperour, and the King of Spaine. Holden in the castle of St. Angelo in Rome, upon the entertainment of some great persons after mentioned, touching the subverting of the Protestant profession in England, and other parts of Christendome. And concerning the present distractions here in England between the King and Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80306</idno>
+            <idno type="STC">Wing C5727</idno>
+            <idno type="STC">Thomason E155_10</idno>
+            <idno type="STC">ESTC R11137</idno>
+            <idno type="EEBO-CITATION">99858944</idno>
+            <idno type="PROQUEST">99858944</idno>
+            <idno type="VID">156855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156855)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E155[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference betweene the Pope, the Emperour, and the King of Spaine. Holden in the castle of St. Angelo in Rome, upon the entertainment of some great persons after mentioned, touching the subverting of the Protestant profession in England, and other parts of Christendome. And concerning the present distractions here in England between the King and Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Coe and T. A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 14. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An expanded prose paraphrase of "Prosopopoeia".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Signatures : A4.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ferdinand, --  Holy Roman Emperor, 1608-1657.</term>
+               <term>Philip, --  King of Spain, 1605-1665.</term>
+               <term>Urban, --  Pope, 1568-1644.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156855:1" rendition="simple:additions"/>
+            <p>A CONFERENCE Betweene The Pope, the Emperour, and the King of Spaine.</p>
+            <p>Holden in the Caſtle of St. <hi>Angelo</hi> in ROME, Vpon the entertainment of ſome great perſons af<g ref="char:EOLhyphen"/>ter mentioned, touching the ſubverting of the Proteſtant Profeſſion in England, and other parts of Chriſtendome.</p>
+            <p>
+               <hi>And concerning the preſent diſtractions here in Eng<g ref="char:EOLhyphen"/>land between the King and Parliament.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>A. Coe,</hi> and <hi>T. A. Iuly</hi> 14. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156855:2"/>
+            <head>A Conference holden at the Caſtle of St. <hi>Angelo</hi> in <hi>Rome,</hi> betwixt the Pope, Emperour, and the King of <hi>Spaine.</hi>
+            </head>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>WElcome deare Sonnes unto our Court of Rome, A<g ref="char:EOLhyphen"/>poſtolicke and holy bleſſings ſhield all the houſe of Auſtria from evill, and advance both your for<g ref="char:EOLhyphen"/>tunes and your Crownes.</p>
+            </sp>
+            <sp>
+               <speaker>Emperour.</speaker>
+               <p>Thy feet moſt (holy Father) I doe kiſſe, if I miſſe thy bleſſing, the Imperiall Crowne from Auſtria will be loſt which heavens forbid, for then we are undone; Bohemia Re<g ref="char:EOLhyphen"/>bells doe joine with Sweden, the Hereticks from Danawe to the Rhyne; they combine both heads, armes and forces againſt Rome and Auſtria to helpe the Palatine that curſed Calviniſt with his partakers, thoſe damned Schiſmaticks and Hereticks, who upon our ruines ſeeke to build their fortune, which makes me thus to move you Holineſſe, and crave your helpe now in this extremity, for if we fall, the worſer it will be for you.</p>
+            </sp>
+            <sp>
+               <speaker>Pope</speaker>
+               <p>The keyes of <hi>Peter,</hi> and the ſword of <hi>Paul</hi> ſhall ſhut, open, and cut in peeces the gates of Heaven, Nations, Lawes, and Rights, and turne the darkeſt nights into cleare dayes; and thoſe lands which have denyed our dignities, Ile make a Keldoma and field of bloud: Ile thunder out my Bulls againſt Hereticks, and make their land a place of dead mens ſculls, I will implore the Saints, and Hell, and Purgato<g ref="char:EOLhyphen"/>ry, both ſhall roare, ere any <hi>Calvin</hi> or of <hi>Luthers</hi> Sect with Roman bayes ſhall inſult on our teritories.</p>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <p>Your threats and curſes are now deſpiſed by thoſe vile Here<g ref="char:EOLhyphen"/>ticks, they hold your bleſſings of no more force then is the ſkipping
+<pb facs="tcp:156855:2"/> of a foxes taile; in briefe, they are all ſo diſobedient, that whether you bleſſe or curſe they doe not care, they feare not what your Holineſſe can ſay, there is nothing that can drive them from their Hereſie, helpe by your counſell therefore holy Father, and ſhew us means to quiet all this ſtirre.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Thou maiſt by reaſons and Ambaſſages, by queſtions, an<g ref="char:EOLhyphen"/>ſwers, and the like, winne time a while, but theſe be out of date now, now ſwords, not words,, doe arbitrate Kingdomes, and we have ſtill uſed delayes, and ſhifts ſo oft, that all our enemies perceive our craf<g ref="char:EOLhyphen"/>tines; ſend unto thy neighbours, friends &amp; ſubjects, that thou maiſt thy ſelfe defend from ſurpriſe my Legats and my Nuntioes, I will haſt to hatch more forces amongſt the Catholicks, Mentz, Cullen, Triers, Catholicke B. varie, thou haſt with others in Germany, from Flaun<g ref="char:EOLhyphen"/>ders, Brabant and the Popiſh King, thy true friends will quickly bring thee ſuccour; and though my ſelfe, with Florence may not ſend our armes ſo ſoone, we will lend our money: the Cantons and the Swit<g ref="char:EOLhyphen"/>zers ſhall be hired, who doe hold themſelves ingaged to our See, Ile ſend to Urbin and to Martina, to Ferar, and to Genoa, to Savoy, and to Venice, and to Piemount, to France our eldeſt ſonne, and to Saint <hi>Dennis,</hi> Ile fetch the Saints from heaven, the fiends from hell, but Ile quell thoſe drunken Germane Traitors: Is not thy Spaniſh Couſen here with thee? Who doe feare Europe, and the new found world, the Churches Atlas, and the Empires prop? We hope to ſtoppe by ſtrength, wit or gold thoſe proud attemps and daring of the Dutch, and breake their forces coſt it never ſo deare.</p>
+            </sp>
+            <sp>
+               <speaker>King of Spain.</speaker>
+               <p>If <hi>Caeſar,</hi> and your Holineſſe have ended, obſerve the anſwer of the Spaniſh ſonne, no Germane Prelates, nor Bavaria can doe it, nor King of Pole, your ſelfe, nor any man, nor Florence Duke, nor Brabant joind with Flaunders, nor Cantons, Switzers, nor the greateſt Catholicke if all were joyned in one, yet could they not with all their force that can bee got by them bring timely ſuccour a<g ref="char:EOLhyphen"/>gainſt the combination thoſe Almaines, Graves, have in every land, ex<g ref="char:EOLhyphen"/>pect no helpe from Venetia or Savoy, who deadly hate and feare the houſe of Auſtria, I looke for no helpe from my brother France, for if
+<pb facs="tcp:156855:3"/> he ſee us downe heele ſing and joy: and <hi>Caeſar</hi> if thou lookſt at home for aid, thy ſtate is tottering, and thy ſtrength periſheth. Thy Auſtrian ſubjects are infected alſo with <hi>Luthers</hi> hereſie, and have forſaken the Papall dignity, and may combine with their fellow Lutherans, and if thou doſt ſend to Thracia for ſuccour, the faithleſſe Turke (thou know<g ref="char:EOLhyphen"/>eſt) will not from Aſia, Spaine, thou muſt helpe, or what will <hi>Caeſar</hi> doe, and how can Rome helpe Spaine, and <hi>Caeſar</hi> alſo having ſo many places to ſupply which ſtands in need? wherefore doubtleſſe, if I ſhall cauſe India Armies to be recald from thence, and our Italian forces march from us, leave Millaine, Naples, and our ſilver fountaines un<g ref="char:EOLhyphen"/>guarded, naked, and march over the hills through Griſſons Countrey, leave the ſtrength of Spaine, or venture our Armado once more to nar<g ref="char:EOLhyphen"/>row ſeas, and ſo loſe more at once then we have got in threeſcore years before, then thou at Vienna, I at Arragon may ſhave our heads &amp; turn Monks, you count your friends but doe not count your foes, whoſe ſtrength, whoſe numbers you cannot quel, the Northerne tract of Eu<g ref="char:EOLhyphen"/>rope from Britaine, tending to laſt as farre as Tranſilvania, ſave Hol<g ref="char:EOLhyphen"/>land and ſome other of their owne trifles (Oh me) in foureſcore years how they are growne you ſee, three Kingdomes, England, Scotland, Ireland be, with Denmarke, Norway, Sweden, ſix beſides thoſe two which they have won being eight in all, and our Kings are but three, the number of their Princes, Dukes and Earles, with their free Lords and States are a great number, beſides their many Palſ<g ref="char:EOLhyphen"/>graves, and their Mootgraves, with all their Landgraves, and their Burgraves; and as their numbers, ſo their ſpirits are made great with hopes of their prodigious ſtarre which blazed over Germany the laſt December, portending change of State, and their expoſitions and their combinations of ſituations, times and Scepters; and of Rome, of Ba<g ref="char:EOLhyphen"/>bell, and of hills and dales, of beaſts of Dragons, and ſuch fearefull things wherewith they cheare themſelves, and triumph as though they would give us all the overthrow: the eleventh and twelfth of <hi>Eſdras</hi> they apply againſt the Imperiall Monarchy, and that the Lion com<g ref="char:EOLhyphen"/>ming from the wood is underſtood of the King of Sweden, and that the Lion ſhould the Eagle foile, and in triumphant ſort divide the
+<pb facs="tcp:156855:3"/> ſpoile. The Rebels thus interpreteth this, whereby the Catholiques are vext greatly; therefore they ſay that as the Eagles they doe ſpread themſelves ore many Catholique Kings, even ſo the Lyon in the Armes of Sweed, will ſure protect thoſe Heretiques from feare, and Sued (they ſay) turn'd Anagram, is the Chriſtian <hi>Macchabeus;</hi> they further ſay <hi>Guſtavus</hi> is his name. The fame of this mans fortune doth ſo much them cheriſh, that their good ſucceſſe makes me now to ſtand in feare to be put downe, wherefore I pray you ſee now if any meanes be left to ſet me free.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>An uncouth ſhivering makes my blood to chill, and ſtrange amazement doth fill my ſinewes; I wonder much that they are ſo skil<g ref="char:EOLhyphen"/>full againſt us, thus to apply this Propheſie: I alſo doe admire how they would frame ſuch Anagrams on Swede; but though thoſe hopes doe cheare their froward mindes, yet let our Emperours thoughts contemne all feare, for it is not Fortune turning of her wheele can make our noble reſolutions ſtagger: I wonder much thoſe blinde He<g ref="char:EOLhyphen"/>retiques cannot remember in their hardned minde, how I am on Saint <hi>Peters</hi> Chaire ſo plac't that they can neither waſte nor ruinate the place which is within my grave protection, though (for a time) they put them to perplexity, for I will ſo trouble them with my band of Jeſuits, they ſhall not withſtand them; doubt not but I will finde a Stratagem to ſave Romes <hi>Caeſars,</hi> and the Diadem of Spaine.</p>
+            </sp>
+            <sp>
+               <speaker>King of Sp.</speaker>
+               <p>But holy Father I am certified that they deride your Councell and Policy, and how of you they make an Anagram, can frame the beſt and bettereſt of their wits: as thus,
+<list type="anagram">
+                     <item>Supremus Pontifex Romanus.</item>
+                     <item>ANAGRAMMA.</item>
+                     <item>O non ſum ſupra Petram fixus.</item>
+                  </list>
+               </p>
+               <p>Moſt ſacred Paſtor of the flock of Chriſt.</p>
+               <p>They ſay thou art not fixed on the Rocke, but I ſuſpect that they are all inclin'd, that they doe believe in minde what they ſay, alas for Rome, alas for <hi>Ferdinando,</hi> alas for <hi>Philip,</hi> muſt I be forced to with<g ref="char:EOLhyphen"/>ſtand my owne, the Emperours, and the Churches enemies, and ſo loſe both my ſelfe, the Church, and Empire all at once!</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:156855:4"/>
+               <speaker>Pope.</speaker>
+               <p>And they finde out ſuch ſtrange prodigies to fill the Cath<g ref="char:EOLhyphen"/>liques with feare and doubt; Ile make them know that I am fixed firme upon Saint <hi>Peter,</hi> and ſhall never be caſt downe, my benediction, or my malediction can raiſe a State, or ruine a Nation: The Heretiques on Saint <hi>Peters</hi> doe build their faith, and I am upheld as from his per<g ref="char:EOLhyphen"/>ſon, and from him all power is given unto me, to binde and looſe, to ſhut and open heaven: And whilſt I keepe the Keyes none ſhall come in that have beene in thoſe mad rebellious wars.</p>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <p>All you can ſay, and all you can deviſe, they value not, but deſpiſe it utterly: the Duke of Saxon is gone from our ſide, and joy<g ref="char:EOLhyphen"/>ned with the King of Sweden, and why ſhould we expect for more from him then <hi>Charles</hi> my Predeceſſor did before, who gave them all and more then I can tell, yet ſhortly after in that great contention twixt him and <hi>Luthers</hi> Rebels, hee forſooke his benefactors and turned a<g ref="char:EOLhyphen"/>gainſt them; and by theſe Civill Warres what is our gaine, more then millions of our people have been ſlaine, <hi>Dampiere, Bucqu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> and va<g ref="char:EOLhyphen"/>lient men, whoſe like we have no hope againe to injoy, our ſubjects with great taxes are compelled, our Provinces laid waſte, our Cities ſackt, our fruitfull fields untild, and unmanured, paſt hope to be recu<g ref="char:EOLhyphen"/>red, maids, wives, and widowes, defloured, raviſhed, our Lands with ſpoile and ruine all deſtroyed, fire, ſword, and famine, hath theſe twelve yeares raigned ore mine Empire in every place, our friends fall off, our treaſure is rackt, and all we have wel neare conſumed and wa<g ref="char:EOLhyphen"/>ſted, and all the miſchiefes that can fall, we and our people by warre have endured, whilſt many thouſands that were wont to give, doe beg or ſtarve or live miſerably; and late that moſt unluckie overthrow, my truſty Tilleys loſſe and deadly ſtroke, Prague and Bohemia King<g ref="char:EOLhyphen"/>domes, all is loſt, our Townes of Franckford, and of Anow won, Hall, Herveſted, and Hurſt, with mighty Mentz, out chiefe Elector Biſhop, fled away, my Generall <hi>W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lſtan</hi> and <hi>Don Balthazar</hi> fled to Polonia from the Swords fury; This makes our foes to ſwell with vi<g ref="char:EOLhyphen"/>ctory, and all is worſe then tongue or pen can tell.</p>
+            </sp>
+            <sp>
+               <speaker>King of Sp</speaker>
+               <p>No Prince can compare with my loſſes, for I have had more then a double ſhare; great damage have I had in Aſia, in Bra<g ref="char:EOLhyphen"/>ſill,
+<pb facs="tcp:156855:4"/> and in Farnambuck, the furious Rebels have cauſed me to feel with places of importance, their civill hatred to our State and Realme, by foyling, ſpoyling, and ruinating them, my India is ſurpriſed and taken by them, wherein ſubſiſted all the hope of Spaine; beſides at Belgia, I have had misfortune, my Towne of Weazell's taken in a trap, the Buſſe, a place of great importance loſt, long time defended, with exceeding charge, and late that unrecoverable blow in Zealand, where our forces all were broke, Sloopes, Puicks and Lighters, 78. periſhed, 6000. men, tane priſoners, many wounded, 4000. hand Granadoes, and of Braſſe 430. peeces was taken, eleven harrells of good money likewiſe taken, and many hundreds of our ſouldiers ſlain, with ſtore of Ammunition, ſhot, and powder, all loſt in that unlucky expedition; all this paſt the laſt September, for which our foes re<g ref="char:EOLhyphen"/>joyce, our friends are grieved, whileſt onely Dunkirke are rude Ren<g ref="char:EOLhyphen"/>negadoes, have made bravadoes againſt mine enemies, they onely have done things of ſpeciall moment, taken from Merchants and ſmall fiſher boats, and now and then a Collier, or a Catch of Oyſters, ſeldom meeting with their equalls, for which rare acts their fame abroad is ſpread, as though they had ſubdued and won the world, when every wiſe man knowes their Townes and Ships to be but dens of Thieves. Have all my Anceſtors to ſixe diſcents, by conqueſt, wedlocke, and ſuch like other Ligaments, tyed faſt Earldomes, Dakedomes Crowne and Empire, hoping for Weſterne Monarchy at laſt, and is the period of our greatneſſe, hope, and our declining now begin to haſte? Naſſaw, Naſſaw, you hatefull Father and Sonnes, curſed be your name and houſe, you firſt did gather the fearefull Rebels into warlike bonds, which now doe State it in the Netherlands; there where you writ <hi>nil ultra</hi> once more, and ſet ſterne pillars barres to Spaine.</p>
+            </sp>
+            <sp>
+               <speaker>Emp.</speaker>
+               <p>Thus holy Father have you briefly heard the cauſe of all our anger and our griefe, by reaſon of thoſe dangers now related, which ſo perplext our mindes and hearts, by theſe ſo many loſſes, and we feare ere long will befall us; wherefore if Rome have any ſercret wiſdome laid up in ſtore for evill times, or evill did make wicked He<g ref="char:EOLhyphen"/>retiques feele the power of the Church; then Father now is the time
+<pb facs="tcp:156855:5"/> and houre: Remember how <hi>Fredericke</hi> heretofore frighted thy Prede<g ref="char:EOLhyphen"/>ceſſors, this may hazard thy fortune more, utterly ſuppreſſe thy ſelfe, the Romane Church, and us, except by ſome prime ſtratagem fetcht from beneath, thou mayeſt thy ſelfe and friends from danger keep, for if theſe Heretiques be once our maſters, then farewel Pope and Papall dignity.</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>And are our friends ſo few and falſe? and be our foes ſo ma<g ref="char:EOLhyphen"/>ny and ſo luſty? Once <hi>Innocent</hi> of Rome in former ages, hath us'd three Kings for Lackies, and dare they now make warres againſt <hi>Caeſar</hi> without our leave? Then our furies wake, helpe me to ſtore of Piſtols, poyſoned knives, to fire, and powder, and Manacles, bid <hi>Raviliack,</hi> and <hi>Clement</hi> high them hither, let <hi>Guido Faux,</hi> and <hi>Garuet,</hi> all come, all thoſe that doe excell in policie, are Sonnes of <hi>Iſkariet,</hi> and <hi>Achitephel.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
